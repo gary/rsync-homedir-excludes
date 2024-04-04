@@ -33,10 +33,11 @@
 #/twister
 #Applications/eclipse*
 #/Downloads
+/Downloads/iso
 #*Popcorntime*
 #/.aMule
 #/Scribus
-#/VirtualBox*
+/VirtualBox*
 #.local/share/gnome-boxes/images
 #/Nextcloud
 #_build
